@@ -72,9 +72,6 @@
     - [ ] c) Namespaces are used to define CSS styles for HTML elements.
     - [ ] d) Namespaces are used to define database tables in WordPress.
 
-Apologies for the oversight. Let's make the assumption that the necessary post type and taxonomy are already registered in WordPress. We'll focus solely on the implementation of the `Employee` and `Company` classes within the plugin.
-
-Here's the updated code challenge:
 
 **OOP Code Challenge (WordPress):**
 
